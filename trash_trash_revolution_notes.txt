@@ -4,8 +4,22 @@ sudo vim /etc/nginx/sites-available/default
 sudo nginx -t
 sudo systemctl reload nginx
 
+mkdir trashtrashrevolution
+cd trashtrashrevolution
+
 trashtrashrevolution.com
 www.trashtrashrevolution.com
 
 node1.trashtrashrevolution.com
 node2.trashtrashrevolution.com
+
+ns-1199.awsdns-21.org
+ns-1613.awsdns-09.co.uk
+ns-71.awsdns-08.com
+ns-898.awsdns-48.net
+
+git clone https://github.com/aspiringguru/TrashTrashRevolution.git
+
+/home/ubuntu/gitRepo/TrashTrashRevolution
+
+python -m http.server
